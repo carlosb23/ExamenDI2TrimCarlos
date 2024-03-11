@@ -1,4 +1,4 @@
-package com.example.practicaexamendi.utility;
+package com.example.examendi;
 
 import java.util.ArrayList;
 
